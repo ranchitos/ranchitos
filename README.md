@@ -25,6 +25,7 @@
 
 ## 📫 Let’s Connect
 - LinkedIn: [https://www.linkedin.com/in/rafael-juancho-san-jose-a7a42b311/]
+- YouTube: [https://www.youtube.com/@ranch6246]
 
 ---
 

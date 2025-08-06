@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [Your LinkedIn URL]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/rafael-juancho-san-jose-a7a42b311/))
+- LinkedIn: https://www.linkedin.com/in/yourname
 
 ---
 

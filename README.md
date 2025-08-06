@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/yourname
+- LinkedIn: [https://www.linkedin.com/in/rafael-juancho-san-jose-a7a42b311/]
 
 ---
 

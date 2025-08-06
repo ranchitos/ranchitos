@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranchito
 
-<!--
-**ranchitos/ranchitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 UW student exploring math, data, and computation  
+💻 Learning Python, scientific computing, and mathematical modeling  
+📊 Interested in data science, differential equations, and statistical reasoning  
+🧠 Future goals: machine learning, simulation, and applied math  
+🏸 Side note: I love badminton!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Projects I'm Exploring
+- 📈 **[Math Modeling Labs](https://github.com/ranchitos/math-modeling-labs)**  
+  A collection of mini-projects using math and code to model real-world problems.  
+  Topics so far: budgeting, logistic models, and Python simulations.
+
+---
+
+## 🛤️ Current Learning Journey
+- Python and Jupyter Notebooks
+- Scientific computing tools
+- Modeling real-world phenomena with equations
+- Building a foundation in data science and ML
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: [Your LinkedIn URL]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/rafael-juancho-san-jose-a7a42b311/))
+
+---
+
+💡 *This profile is a work in progress as I explore and grow. Follow along!*
+
